@@ -6,4 +6,21 @@ Project Title: Analyzing Customer Churn Rate for a Telecom Company - Databel
 Objective:
 The objective of this project is to analyze the customer churn rate for Databel, a telecom company. Churn rate is defined as the rate at which customers discontinue their engagement with a business entity. In this case, we aim to determine the factors contributing to customer churn in the telecom industry and explore the underlying causes.
 
+Conclusion:
+
+In the course of our analysis of Databel's customer churn rate, we have identified several key factors contributing to the higher churn rate. The primary driver appears to be the intense competition from other vendors in the telecom industry. This competition compels us to critically evaluate the effectiveness of our current plans and services.
+
+Our analysis also reveals that a significant portion of churn is among senior customers who have international plans activated but do not necessarily utilize them to their full potential. This provides a strategic opportunity for Databel to take action.
+
+To address these challenges and reduce churn, we recommend the following:
+
+Plan Analysis: Evaluate the performance and relevance of existing plans to ensure they meet the evolving needs and preferences of our customer base.
+
+Promotional Offers: Introduce targeted promotional offers, discounts, or customized plans for senior customers with international plans to incentivize their continued engagement with Databel.
+
+Customer Engagement: Implement strategies to better educate and engage senior customers about the benefits and value of international plans to encourage usage.
+
+By implementing these recommendations, Databel can not only retain more customers but also build stronger customer loyalty by addressing their specific needs and concerns. This proactive approach to churn reduction will contribute to the long-term success and profitability of the company in a highly competitive telecom industry.
+
+Data Vizualization on Tableau
 
